@@ -1,5 +1,8 @@
 # Lama Dev School Management Dashboard
 
+This project was created to learn Next.js by following the Lama Dev YouTube channel tutorials. It simulates a school management dashboard system and helped me practice both basic and advanced Next.js concepts.
+
+
 ## Getting Started
 
 First, run the development server:
